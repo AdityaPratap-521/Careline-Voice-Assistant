@@ -193,16 +193,21 @@ npm run build
 
 ## Current Verification Status
 
-- Backend unit tests: 5 passed
+- Backend unit tests: 5/5 passed
 - Frontend production build: Passed
-- ElevenLabs STT and TTS: Verified
-- Gemini integration: Verified
-- Spoken phone confirmation: Verified
-- Doctor availability: Verified
-- Appointment booking record: Verified
-- Dashboard API integration: Verified
-- Full dashboard voice integration and cancellation:
-  Pending end-to-end verification
+- ElevenLabs speech-to-text: Verified
+- ElevenLabs text-to-speech integration: Verified
+- Google Gemini integration: Verified
+- Browser-based voice call connection: Verified
+- Live conversation transcript: Verified
+- Invalid phone number handling: Verified
+- Spoken phone number confirmation: Verified
+- Doctor availability checking: Verified
+- Appointment booking: Verified
+- Appointment cancellation: Verified
+- Automatic dashboard updates: Verified
+- Availability, booking and cancellation in a single voice conversation: Verified
+- End Call functionality: Final verification pending
 
 ## Limitations
 
