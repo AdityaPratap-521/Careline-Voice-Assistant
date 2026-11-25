@@ -207,7 +207,7 @@ npm run build
 - Appointment cancellation: Verified
 - Automatic dashboard updates: Verified
 - Availability, booking and cancellation in a single voice conversation: Verified
-- End Call functionality: Final verification pending
+- End Call functionality: Verified
 
 ## Limitations
 
